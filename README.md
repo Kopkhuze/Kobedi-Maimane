@@ -29,12 +29,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Kobedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KopsKhule&show_icons=true&theme=radical)
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced Java OOP  
@@ -45,4 +39,4 @@
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com) | [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com) |  
