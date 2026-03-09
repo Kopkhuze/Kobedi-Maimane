@@ -38,4 +38,4 @@
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/kobedi-maimane/)) |  
+[LinkedIn](https://www.linkedin.com/in/kobedi-maimane/) |  
