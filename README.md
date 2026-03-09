@@ -6,7 +6,6 @@
 
 ![Coding Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/relaxed-studio.svg" width="400"/>
 
 ---
 
@@ -25,9 +24,7 @@
 
 ## 📂 Projects
 
-- **Toy Robot (Java)** – Object-oriented programming & TDD  
-- **Student Grades System (Python)** – Python, unit testing  
-- **UNO Game (Python)** – Player vs. Computer
+- **User-Task Manager (Java)** – Object-oriented programming & TDD  
 
 ---
 
