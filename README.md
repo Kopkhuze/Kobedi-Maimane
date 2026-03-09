@@ -1,1 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Hi+I'm+Kobedi;Software+Engineering+Student;Learning+Java+and+Python;Future+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD700&lines=Hi+I'm+Kobedi;Software+Engineering+Student;Learning+Java+and+Python;Future+Software+Engineer)](https://git.io/typing-svg)
+
+---
